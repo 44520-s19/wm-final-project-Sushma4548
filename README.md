@@ -1,10 +1,16 @@
-### Final Project Proposal
+### Web Mining Final Project
 
-## Question:
-- Does the reviews for high rated products in online shopping site are positive or negative?
-## Analysis:
+## Sushma Rani Reddy Aleti:
+
+## Objective:
 - The main aim of this project is to analyze whether the reviews given by the customers are positive or negative based on the three
  different brands of a product on popular Amazon website.  
+ 
+## Question
+- Does the reviews for high rated products in online shopping site are positive or negative?
+
+## Analysis Techniques:
+- Web Scraping
 
 ## Platform for mining:
 - Amazon platform.
