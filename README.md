@@ -22,6 +22,6 @@
 - Sentiment analysis. 
 
 ## Visualizing data:
-- I would be using a 3D scatter plot to visualize my data.
+- I would be using a bar graph to visualize my data.
 
 
